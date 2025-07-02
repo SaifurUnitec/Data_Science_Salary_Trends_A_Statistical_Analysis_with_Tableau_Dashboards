@@ -157,3 +157,10 @@ I used Tableau to find out the answer to the research question by creating sever
 
 <img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D10.jpg?raw=true" alt="Image Description" width="600"/>
 
+## Story
+
+<img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D11.jpg?raw=true" alt="Image Description" width="600"/>
+
+<img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D12.jpg?raw=true" alt="Image Description" width="600"/>
+
+<img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D13.jpg?raw=true" alt="Image Description" width="600"/>
