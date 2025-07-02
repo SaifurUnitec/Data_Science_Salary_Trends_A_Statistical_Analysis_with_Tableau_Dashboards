@@ -84,6 +84,7 @@ To get a better idea about salary trends in data science industries, some KPIs f
 **Statistics:**
 
 **•	Median salary:** The median of all roles is $101,835. USD
+
 **•	Standard Deviation:** Standard deviation is $71,003.59 USD
 
 **Insight:** Median salary indicates that half of the salary is below the median salary and half is the above of it.  Standard deviation indicates that how much salary deviates from the mean salary. 
@@ -105,4 +106,54 @@ I used Tableau to find out the answer to the research question by creating sever
 **•	Bar Chart**
 
 <img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D2.jpg?raw=true" alt="Image Description" width="600"/>
+
+**•	Box Plot**
+
+<img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D3.jpg?raw=true" alt="Image Description" width="600"/>
+
+-	The bar chart and box plot present how experience level and salary in data science jobs are correlated which supports sub-research question 1.
+
+-	It is clear from both bar chart and box plot that salary distribution of data science job depends on experience level. Executive level experienced people have got the highest gross salary among other experienced groups which is more than USD 170K. Executive level also has fewer outliner compared to other experienced level people. Here, salary trend and experience level are positively correlated.
+
+## 2.	Salary Trends Based on Job Titles in Various Regions
+
+**•	Geographical Map**
+
+<img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D4.jpg?raw=true" alt="Image Description" width="600"/>
+
+**•	Heatmap**
+
+<img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D5.jpg?raw=true" alt="Image Description" width="600"/>
+
+-	Geographical Map and Heatmap show how the salary of data science jobs vary by different regions and job titles which support sub-research question 2. 
+
+-	The map indicates median salaries for data science jobs across the different countries. Russia and the US pay the highest median salary, with $157,500 and $135,000 respectively, while Iran pays the lowest median salary at $4,000.
+
+-	The heatmap presents a Data Analytics Lead in the US gets the highest median salary at $405,000, while a Data Scientist in Mexico gets the lowest at $2,859.
+
+## 3.	Company Size and Salary Distribution
+
+**•	Line Chart**
+
+<img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D6.jpg?raw=true" alt="Image Description" width="600"/>
+
+**•	Dual Combination Chart**
+
+<img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D7.jpg?raw=true" alt="Image Description" width="600"/>
+
+-	Line chart and dual combination chart show how company size has an impact on the median salary of data scientist job that support sub-research question-3 
+
+-	Charts show that salary of large companies continuously increased from 2020 to 2022. Medium companies' salaries fluctuated each year, with the highest in 2022 but the lowest in 2021. Small companies paid the lowest salaries, except in 2021.
+
+## Dashboard-1 (Supported by Sub- Research Question-1)
+
+<img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D8.jpg?raw=true" alt="Image Description" width="600"/>
+
+## Dashboard-2 (Supported by Sub- Research Question-2)
+
+<img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D9.jpg?raw=true" alt="Image Description" width="600"/>
+
+## Dashboard-3 (Supported by Sub- Research Question-3)
+
+<img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D10.jpg?raw=true" alt="Image Description" width="600"/>
 
