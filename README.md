@@ -145,19 +145,21 @@ I used Tableau to find out the answer to the research question by creating sever
 
 -	Charts show that salary of large companies continuously increased from 2020 to 2022. Medium companies' salaries fluctuated each year, with the highest in 2022 but the lowest in 2021. Small companies paid the lowest salaries, except in 2021.
 
-## Dashboard-1 (Supported by Sub- Research Question-1)
+# Dashboard
+
+### Dashboard-1 (Supported by Sub- Research Question-1)
 
 <img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D8.jpg?raw=true" alt="Image Description" width="600"/>
 
-## Dashboard-2 (Supported by Sub- Research Question-2)
+### Dashboard-2 (Supported by Sub- Research Question-2)
 
 <img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D9.jpg?raw=true" alt="Image Description" width="600"/>
 
-## Dashboard-3 (Supported by Sub- Research Question-3)
+### Dashboard-3 (Supported by Sub- Research Question-3)
 
 <img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D10.jpg?raw=true" alt="Image Description" width="600"/>
 
-## Story
+# Story
 
 <img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D11.jpg?raw=true" alt="Image Description" width="600"/>
 
