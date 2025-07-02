@@ -40,8 +40,11 @@ To get a better idea about salary trends in data science industries, some KPIs f
 **Statistics:** 
 
 **•	Entry-level:** Average salary is $61,643.32 USD
+
 **•	Mid-level:** Average salary is $87,996.06 USD
+
 **•	Senior-level:** Average salary is $138,617.29 USD
+
 **•	Executive-level:** Average salary is $ 199,392.03 USD
 
 **Insight:** Salary among employees in the data science industry depends on experiences. The more experience one has, the higher the salary one gets, as executive-level gets the highest salary among the experience level. 
@@ -53,7 +56,9 @@ To get a better idea about salary trends in data science industries, some KPIs f
 **Statistics:**
 
 **•	Machine Learning Scientist:** Mean Salary is $158,412.50 USD
+
 **•	Data Engineer:** Mean Salary is $112,725 USD
+
 **•	Data Scientist:** Mean Salary is $108,187.83
 
 **Insight:** In data science industries, the highest salary is offered to machine learning scientists, data engineers, data scientists because of their specialized knowledge. 
@@ -65,7 +70,9 @@ To get a better idea about salary trends in data science industries, some KPIs f
 **Statistics:**
 
 **•	Lage company (L):** Average salary is $119,242.99
+
 **•	Medium company (M):** Average salary is $116905.46
+
 **•	Small Company (S):** Average salary is $77,632.77
 
 **Insight:** Large companies offer higher salary compared to medium and small companies.
@@ -81,12 +88,14 @@ To get a better idea about salary trends in data science industries, some KPIs f
 
 **Insight:** Median salary indicates that half of the salary is below the median salary and half is the above of it.  Standard deviation indicates that how much salary deviates from the mean salary. 
 
-# 5. Visualization Outputs
+## 3. Visualization Outputs
 
 I used Tableau to find out the answer to the research question by creating several visualizations.
 
 **Bar Chart and Box Plot:** Both bar chart and box plot have been used to identify how experience level influences salary in data science industries.
+
 **Geographical Map and Heat map:** To compare average salary in different job titles across the different regions.
+
 **Dual Combination Chart and Line Chart:** Showing average salary based on company size over the year.
 
 # Investigations and Findings
@@ -94,5 +103,6 @@ I used Tableau to find out the answer to the research question by creating sever
 ## 1.	Experience Level and Salary Distribution
 
 **•	Bar Chart**
+
 <img src="https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards/blob/my-new-branch/D2.jpg?raw=true" alt="Image Description" width="600"/>
 
